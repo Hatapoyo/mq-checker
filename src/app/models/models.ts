@@ -189,8 +189,8 @@ export const SDT_MAP_INFO = [
     score: 200,
   },
   {
-    key: '一人が複数のレバーを引いてもカウントされます',
-    value: 'レバー',
+    key: '制限時間内にウィングクリスタル制御装置をすべて破壊し、ウィングコアの起動を阻止し',
+    value: 'クリスタル',
     type: LineType.line,
     score: 100,
   },
@@ -201,7 +201,7 @@ export const SDT_MAP_INFO = [
     score: 100,
   },
   {
-    key: '無造作に爆発する地点を避けて中央部にある目的地に到達してください',
+    key: 'ランダムに爆発するポイントを避け、中央の封印された結界を破壊して脱出しましょう。',
     value: '迷路',
     type: LineType.line,
     // score: 100
@@ -214,8 +214,8 @@ export const SDT_MAP_INFO = [
     score: 100,
   },
   {
-    key: '自分に付与された数字と一致する出口を見つけてください。',
-    value: '4ヶ所出口',
+    key: '周囲の卵をすべて破壊してシールドを解除し、ボス『魔晶石喰』を撃破しましょう。',
+    value: '魔晶石喰',
     type: LineType.line,
     score: 100,
   },
@@ -244,7 +244,7 @@ export const SDT_MAP_INFO = [
     score: 250,
   },
   {
-    key: '見えない幽霊を避けて左下にある目的地に到達してください。',
+    key: '見えない幽霊の中に隠れているボスを見つけて討伐し、北西にある目的地から脱出しまし',
     value: '幽霊',
     type: LineType.line,
     score: 150,
