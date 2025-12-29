@@ -221,7 +221,7 @@ export const SDT_MAP_INFO = [
   },
   {
     key: '3体のタイタンを同時に倒しましょう。',
-    value: '3タイタンを同時に倒しましょう。',
+    value: '3タイタン',
     type: LineType.line,
     score: 100,
   },
@@ -262,4 +262,5 @@ export const SDT_MAP_INFO = [
     type: LineType.offline,
   },
 ];
+
 
