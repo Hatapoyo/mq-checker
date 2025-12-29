@@ -220,8 +220,8 @@ export const SDT_MAP_INFO = [
     score: 100,
   },
   {
-    key: '新しい脱出装置が生成されました。脱出装置は一定時間が経つと消えます。',
-    value: '脱出装置',
+    key: '3体のタイタンを同時に倒しましょう。',
+    value: '3タイタンを同時に倒しましょう。',
     type: LineType.line,
     score: 100,
   },
@@ -262,3 +262,4 @@ export const SDT_MAP_INFO = [
     type: LineType.offline,
   },
 ];
+
